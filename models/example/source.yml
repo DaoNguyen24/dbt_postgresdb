@@ -1,0 +1,7 @@
+version: 1
+
+sources:
+  - name: public
+    schema: public
+    tables:
+      - name: my_first_dbt_model
